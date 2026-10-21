@@ -2,3 +2,5 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+dog_breeds/data/
+dog_breeds/models/
